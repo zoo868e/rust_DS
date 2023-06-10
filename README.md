@@ -6,17 +6,14 @@ Here are the list of data structure in this repo.
 
 ### Basic
 The basic data structures.
-#### Queue
+#### Queue and Stack
 - [ ] Queue
-#### Stack
 - [ ] Stack
 #### LinkedList
 - [ ] Linked List
+- [ ] Doubly Linked List
 #### Tree
+- [ ] Complete Binary Tree
 - [ ] Binary Tree
-
-### Real life
-The structures that we using in the real life, such as vector, map, priority_queue, ...etc.
-- [ ] vector
-- [ ] map
-- [ ] priority_queue
+- [ ] AVL Tree
+- [ ] Heap

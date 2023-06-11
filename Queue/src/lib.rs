@@ -197,6 +197,7 @@ mod tests {
         let result = true;
         assert_eq!(result, q.is_empty());
     }
+    #[test]
     fn queue_is_not_empty() {
         let mut q = Queue::<i32>::new();
         q.queue(1);

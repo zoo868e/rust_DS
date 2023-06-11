@@ -7,7 +7,7 @@ Here are the list of data structure in this repo.
 ### Basic
 The basic data structures.
 #### Queue and Stack
-- [ ] Queue
+- [x] Queue
 - [ ] Stack
 #### LinkedList
 - [ ] Linked List

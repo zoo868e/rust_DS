@@ -16,4 +16,19 @@ The basic data structures.
 - [ ] Complete Binary Tree
 - [ ] Binary Tree
 - [ ] AVL Tree
+- [ ] B-tree
+- [ ] RedBlack Tree
 - [ ] Heap
+- [ ] Suffix Tree
+
+#### Graph
+- [ ] Undirected Graph
+- [ ] Directed Graph
+- [ ] 2D Voronoi Graph
+
+#### Others
+- [ ] Least Recently Used(LRU) Cache
+- [ ] Finite-State Machine(FSM)
+  - [ ] Deterministic Finite State Machine
+  - [ ] Non-deterministic Finite State Machine
+- [ ] Regular Expression(RE) Engine

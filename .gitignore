@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 */target/*
 */*/target/*
 Cargo.lock
 target
+=======
+.*/target/*
+target/*
+Queue/target/*
+>>>>>>> 475fb77 (Stop tracking target)
